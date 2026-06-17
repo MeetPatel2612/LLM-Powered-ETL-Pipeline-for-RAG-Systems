@@ -1,4 +1,4 @@
-# Handwriting Rules Extractor (Graphology.py)
+# LLM-Powered ETL Pipeline for RAG Systems
 
 This is a backend script that processes handwriting reference books (PDFs) and saves their rules into a database file.
 
